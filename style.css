@@ -7,7 +7,6 @@ scroll-behavior: smooth;
 list-style: none;
 text-decoration: none;
 cursor: url(icon.png);
-align-items: center;
 }
 
 :root {
@@ -22,12 +21,14 @@ align-items: center;
 *::selection {
   background: var(--main-color);
   color: #fff
+
 }
 
 
 body{
   color: var(--text-color);
-  background-color: var(--bg-color)
+  background-color: var(--bg-color);
+
 }
 
 header{
@@ -40,7 +41,6 @@ header{
   justify-content: space-between;
   padding: 30px 170px;
   background:var(--bg-color);
-  align-items: center;
 }
 
 .logo img{
@@ -73,6 +73,8 @@ header{
 
 section{
   padding: 65px 13%;
+  width: 100%;
+justify-content: center;
 }
 .home{
   width: 100%;
@@ -81,6 +83,7 @@ section{
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 1.5rem;
   align-items: center;
+  justify-content: center;
   margin: 3rem 0 0;
 }
 
