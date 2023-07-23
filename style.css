@@ -94,10 +94,10 @@ justify-content: center;
 }
 
 .home-img img{
-  padding: 27px 40px 0 0px;
+  padding: 27px 30px 0 0px;
   max-width: 100%;
   width: 450px;
-  height: auto;
+  height: 80vh;
 }
 
 .home-text h1{
