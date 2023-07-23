@@ -7,6 +7,7 @@ scroll-behavior: smooth;
 list-style: none;
 text-decoration: none;
 cursor: url(icon.png);
+align-items: center;
 }
 
 :root {
