@@ -168,7 +168,7 @@ justify-content: center;
   line-height: 1.7;
   font-family:'Helvetica', sans-serif;
   color: var(--main-color);
-  margin: 15px 0 15px 21px;
+  margin: 15px 0 15px 0px;
   font-size: .9rem;
   max-width: 90%;
 
