@@ -446,6 +446,8 @@ section{
   font-family:'Helvetica', sans-serif;
   color: var(--main-color);
   margin-top: .7rem;
+  margin-left: 3rem;
+  margin-right: 3rem;
   font-size: 1rem;
 }
 
