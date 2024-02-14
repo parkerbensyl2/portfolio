@@ -101,17 +101,17 @@ justify-content: center;
 }
 
 .home-text h1{
-  font-size: var(--big-font);
+  font-size: 2rem;
   color: var(--main-color);
   margin: .5rem 0rem;
-  font-family: 'Helvetica', sans-serif;
+  font-family: 'Poppins', sans-serif;
 
   
 }
 
 .home-text h2{
-  font-size: var(--h2-font);
-  line-height: 120%;
+  font-size: 6.5rem;
+  line-height: 105%;
   margin: .6rem 0 1rem;
   
 }
@@ -123,7 +123,7 @@ justify-content: center;
   background: var(--main-color);
   color: #fff;
   border-radius: 5rem;
-  font-family: 'Helvetica', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 1rem;
   font-weight: 700;
   text-align: center;
@@ -156,7 +156,7 @@ justify-content: center;
   color: var(--main-color);
   font-weight: 900;
   font-size: 1.1rem;
-  font-family:'Helvetica', sans-serif;
+  font-family:'Poppins', sans-serif;
 }
 
 .about-text h2{
@@ -166,9 +166,9 @@ justify-content: center;
 
 .about-text p{
   line-height: 1.7;
-  font-family:'Helvetica', sans-serif;
+  font-family:'Poppins', sans-serif;
   color: var(--main-color);
-  margin: 15px 0 15px 0px;
+  margin: 15px 0 15px 21px;
   font-size: .9rem;
   max-width: 90%;
 
@@ -369,6 +369,7 @@ justify-content: center;
   .navbar a{
     padding: 1.2rem;
     display: block;
+    font-family: 'jost';
   }
 
   .col{
@@ -443,12 +444,10 @@ section{
 }
 
 .popup-content span{
-  font-family:'Helvetica', sans-serif;
+  font-family:'Poppins', sans-serif;
   color: var(--main-color);
   margin-top: .7rem;
-  margin-left: 3rem;
-  margin-right: 3rem;
-  font-size: 1rem;
+  font-size: .9rem;
 }
 
 .show {
