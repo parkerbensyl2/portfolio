@@ -110,9 +110,9 @@ justify-content: center;
 }
 
 .home-text h2{
-  font-size: 7.2rem;
-  line-height: 105%;
-  margin: .6rem 0 1rem;
+  font-size: 6.8rem;
+  line-height: 90%;
+  margin: .8rem 0 2rem;
   
 }
 
@@ -230,7 +230,7 @@ justify-content: center;
   font-size: var(--p-font);
   color: var(--main-color);
   text-align: center;
-  padding: 0px 0 10px;
+  padding: 10px 10px;
 }
 
 .box .bx{
@@ -369,7 +369,7 @@ justify-content: center;
   .navbar a{
     padding: 1.2rem;
     display: block;
-    font-family: 'jost';
+    font-family: 'Helvetica', sans-serif;
   }
 
   .col{
@@ -446,7 +446,7 @@ section{
 .popup-content span{
   font-family:'Poppins', sans-serif;
   color: var(--main-color);
-  margin-top: .7rem;
+  margin: 1.2rem;
   font-size: .9rem;
 }
 
