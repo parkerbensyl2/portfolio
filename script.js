@@ -81,3 +81,39 @@ window.addEventListener("click", function (event) {
   }
 });
 
+myButton7.addEventListener("click", function () {
+  myPopup7.classList.add("show");
+});
+closePopup7.addEventListener("click", function () {
+  myPopup7.classList.remove("show");
+});
+window.addEventListener("click", function (event) {
+  if (event.target == myPopup7) {
+      myPopup7.classList.remove("show");
+  }
+});
+
+myButton8.addEventListener("click", function () {
+  myPopup8.classList.add("show");
+});
+closePopup8.addEventListener("click", function () {
+  myPopup8.classList.remove("show");
+});
+window.addEventListener("click", function (event) {
+  if (event.target == myPopup8) {
+      myPopup8.classList.remove("show");
+  }
+});
+
+myButton9.addEventListener("click", function () {
+  myPopup9.classList.add("show");
+});
+closePopup9.addEventListener("click", function () {
+  myPopup9.classList.remove("show");
+});
+window.addEventListener("click", function (event) {
+  if (event.target == myPopup9) {
+      myPopup9.classList.remove("show");
+  }
+});
+

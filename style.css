@@ -307,7 +307,7 @@ justify-content: center;
 }
 
 .col .social{
-  width: 145px;
+  width: 90px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -480,6 +480,21 @@ section{
 }
 
 #popup6 {
+  max-width: 50%;
+  max-height: 90%;
+}
+
+#popup7 {
+  max-width: 50%;
+  max-height: 90%;
+}
+
+#popup8 {
+  max-width: 50%;
+  max-height: 90%;
+}
+
+#popup9 {
   max-width: 50%;
   max-height: 90%;
 }
